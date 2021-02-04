@@ -5,5 +5,4 @@
 .env.production
 # # Others
 serviceAccountKey.json
-Procfile
 config.json
