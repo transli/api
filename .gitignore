@@ -1,0 +1,9 @@
+/node_modules
+ *.lock
+.env
+.git
+.env.production
+# # Others
+serviceAccountKey.json
+Procfile
+config.json
